@@ -5,6 +5,11 @@
 
 Yulu is India’s leading micro-mobility service provider offering shared electric cycles for a smooth, affordable, and convenient daily commute. This case study investigates the factors affecting the demand for Yulu’s shared electric cycles, aiming to address recent revenue dips and optimize service delivery.
 
+**Project Report**
+
+- You can access the complete project Python file here: [Python](https://github.com/sivapavithran93/Yulu-Business-Case-Study---Hypothesis-Testing/blob/main/Yulu%20Business%20Case%20Study%20Pavithran.ipynb).
+- You can access the complete project in PDF format here: [Report](https://github.com/sivapavithran93/Yulu-Business-Case-Study---Hypothesis-Testing/blob/main/Yulu%20Business%20Case%20Study%20Pavithran.pdf).
+
 ## Dataset Overview 
 
 The dataset includes the following features:
@@ -149,9 +154,7 @@ The dataset includes the following features:
 - **Weather Strategy:** Develop weather-responsive promotions (e.g., discounts on rainy days) and plan for low-demand conditions like heavy rain.
 - **Optimize Operations:** Use weather-season dependency to plan fleet availability, maintenance schedules, and marketing campaigns.
 
-## Project Report
 
-- [Python Analysis Notebook](https://github.com/ssgalactic/yulu-hypothesis-testing-case-study/blob/main/path/to/your/python_analysis_notebook.ipynb)  
-- [Detailed PDF Report](https://github.com/ssgalactic/yulu-hypothesis-testing-case-study/blob/main/path/to/your/detailed_pdf_report.pdf)
+
 
 
